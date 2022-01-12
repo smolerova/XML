@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BugReport>
+  <ID>12</ID>
+  <Summary>The Familyapplication allows the input of letters in the field Birth Day</Summary>
+  <Severity>Major</Severity>
+  <StepsToReproduce>
+     <Step>Start the Family application</Step>
+     <Step>Click on Husband tab</Step>
+     <Step>Click on New button</Step>
+     <Step>Try to input letters in the field Birth Day</Step>
+  </StepsToReproduce>
+  <ExpectedResult>Letters are not entered in the field Birth Day</ExpectedResult>
+  <ActualResult>The field Birth Day allows input of letters</ActualResult>
+</BugReport> 
